@@ -1,0 +1,51 @@
+  .mousetest-main {
+    background: none;
+    display: block;
+    padding: 0px 0px 0px 0px;
+    min-width: 260px;
+    margin: auto;
+    border: none;
+  }
+
+  .mousetest-main:after {
+    content: "";
+    clear: both;
+  }
+
+  .mouse-section {
+    background: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    display: block;
+    padding: 0px;
+    margin: 10px 0px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #bc4e9c;
+    text-align: center;
+    overflow: hidden !important;
+  }
+
+  #mouse {
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+  }
+
+  #mouse .visited {
+    fill: url(#mousegradvisted) !important;
+  }
+
+  #mouse .active {
+    fill: url(#mousegradactv) !important;
+  }
+
+  .trouble-shooting {
+    margin-top: -45px;
+  }
+
+  @media (max-width: 768px) {
+    .trouble-shooting-2 {
+      display: block !important;
+    }
+  }
