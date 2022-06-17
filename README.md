@@ -1,6 +1,6 @@
 # Mouse Test
 
-Do you have a mouse problem? This online [mouse test]9https://joltfly.com/mouse-test/0 is designed to detect mouse problems and determine if your mouse needs to be replaced.
+Do you have a mouse problem? This online [mouse test](https://joltfly.com/mouse-test/) is designed to detect mouse problems and determine if your mouse needs to be replaced.
 
 Mouse problems can be very frustrating. They can cause a lot of frustration and even headaches. If you suspect that your mouse has become damaged or faulty, it is important to test it to make sure if there is any problem so we can try fixing it. 
 
